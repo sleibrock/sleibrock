@@ -5,5 +5,5 @@ My name is Steven. I am currently not actively using GitHub for any of my projec
 ### Links
 
 * website: [ste5e.net](https://ste5e.net)
-* mastodon: [@ste5e@floss.social](https://floss.social/@ste5e)
+* mastodon: [@ste5e@gotosocial.ste5e.net](https://gotosocial.ste5e.net/@ste5e)
 * codeberg: [@ste5e](https://codeberg.org/ste5e)
